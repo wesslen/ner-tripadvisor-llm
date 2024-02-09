@@ -2,7 +2,7 @@
 
 Clone this repo:
 ```
-git clone https://github.com/wesslen/ner-tripadvisor-llm.git
+git clone https://github.com/wesslen/sentiment-tripadvisor-llm.git
 ```
 
 # Install
